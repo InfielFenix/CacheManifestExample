@@ -1,0 +1,14 @@
+CACHE MANIFEST
+#Version 0.1
+CACHE:
+index.html
+Component.js
+manifest.json
+i18n/i18n.properties
+css/style.css
+view/Main.view.xml
+controller/Main.controller.js
+model/models.js
+
+NETWORK:
+*
